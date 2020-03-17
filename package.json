@@ -1,0 +1,15 @@
+{
+  "name": "tgthr",
+  "version": "0.0.1",
+  "description": "Share periodic snaps from your webcam with your friends.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James King",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
